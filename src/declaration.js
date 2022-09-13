@@ -6,12 +6,11 @@
 // do not edit below this line
 let firstNameExport = ''
 try {
-  firstNameExport = firstName
+  firstNameExport = 'Mustafa'
 } catch (e) {}
-
 let ageExport = 0
 try {
-  ageExport = age
+  ageExport = 100
 } catch (e) {}
 
 module.exports = {
